@@ -9,7 +9,5 @@ i ngh .
 ## 设置secrets ，可选
 cf2 sghs CF_API_TOKEN $CF_API_TOKEN
 # 初始化github项目 增加github action发布
-cf2 sghs CF_ACCOUNT_ID $CF_ACCOUNT_ID
-
 
 ```
