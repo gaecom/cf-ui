@@ -9,6 +9,7 @@
   "scripts": {
     "start": "wrangler dev",
     "publish": "wrangler publish",
-    "deploy": "wrangler deploy"
+    "deploy": "wrangler publish"
+    
   }
 }
